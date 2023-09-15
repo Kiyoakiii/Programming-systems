@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "RaGsys/1.0.0": {
+        "dependencies": {
+          "OperationsLib": "1.0.0",
+          "RaGlib": "1.0.0"
+        },
+        "runtime": {
+          "RaGsys.dll": {}
+        }
+      },
+      "OperationsLib/1.0.0": {
+        "dependencies": {
+          "RaGlib": "1.0.0"
+        },
+        "runtime": {
+          "OperationsLib.dll": {}
+        }
+      },
+      "RaGlib/1.0.0": {
+        "runtime": {
+          "RaGlib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RaGsys/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OperationsLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RaGlib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

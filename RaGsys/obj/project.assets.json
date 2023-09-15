@@ -1,0 +1,118 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "OperationsLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "RaGlib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OperationsLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OperationsLib.dll": {}
+        }
+      },
+      "RaGlib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/RaGlib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RaGlib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OperationsLib/1.0.0": {
+      "type": "project",
+      "path": "../OperationsLib/OperationsLib.csproj",
+      "msbuildProject": "../OperationsLib/OperationsLib.csproj"
+    },
+    "RaGlib/1.0.0": {
+      "type": "project",
+      "path": "../RaGlib/RaGlib.csproj",
+      "msbuildProject": "../RaGlib/RaGlib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "OperationsLib >= 1.0.0",
+      "RaGlib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ilya\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ilya\\Desktop\\RaGsys\\RaGsys\\RaGsys.csproj",
+      "projectName": "RaGsys",
+      "projectPath": "C:\\Users\\ilya\\Desktop\\RaGsys\\RaGsys\\RaGsys.csproj",
+      "packagesPath": "C:\\Users\\ilya\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ilya\\Desktop\\RaGsys\\RaGsys\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ilya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\ilya\\Desktop\\RaGsys\\OperationsLib\\OperationsLib.csproj": {
+              "projectPath": "C:\\Users\\ilya\\Desktop\\RaGsys\\OperationsLib\\OperationsLib.csproj"
+            },
+            "C:\\Users\\ilya\\Desktop\\RaGsys\\RaGlib\\RaGlib.csproj": {
+              "projectPath": "C:\\Users\\ilya\\Desktop\\RaGsys\\RaGlib\\RaGlib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

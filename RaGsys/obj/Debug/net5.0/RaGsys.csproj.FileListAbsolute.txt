@@ -1,0 +1,133 @@
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.csprojAssemblyReference.cache
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.GeneratedMSBuildEditorConfig.editorconfig
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.AssemblyInfoInputs.cache
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.AssemblyInfo.cs
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.csproj.CoreCompileInputs.cache
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.exe
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.deps.json
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.runtimeconfig.json
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.runtimeconfig.dev.json
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.dll
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\bin\Debug\net5.0\ref\RaGsys.dll
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.pdb
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\bin\Debug\net5.0\RaGlib.dll
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\bin\Debug\net5.0\RaGlib.pdb
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.csproj.CopyComplete
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.dll
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\obj\Debug\net5.0\ref\RaGsys.dll
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.pdb
+F:\copy Disk_D\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.genruntimeconfig.cache
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.exe
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.deps.json
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.runtimeconfig.json
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.runtimeconfig.dev.json
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.dll
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.pdb
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\bin\Debug\net5.0\RaGlib.dll
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\bin\Debug\net5.0\RaGlib.pdb
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.csproj.AssemblyReference.cache
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.AssemblyInfoInputs.cache
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.AssemblyInfo.cs
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.csproj.CoreCompileInputs.cache
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.csproj.CopyComplete
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.dll
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.pdb
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.genruntimeconfig.cache
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\obj\Debug\net5.0\ref\RaGsys.dll
+D:\MYLIBRARY\0. Courses\Course_Compiler\Recognising and Generating Software Systems (rag-systems)\RaGsys\RaGsys\bin\Debug\net5.0\ref\RaGsys.dll
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.exe
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.deps.json
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.runtimeconfig.json
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.runtimeconfig.dev.json
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.dll
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGsys\bin\Debug\net5.0\ref\RaGsys.dll
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.pdb
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGsys\bin\Debug\net5.0\RaGlib.dll
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGsys\bin\Debug\net5.0\RaGlib.pdb
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.csproj.AssemblyReference.cache
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.AssemblyInfoInputs.cache
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.AssemblyInfo.cs
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.csproj.CoreCompileInputs.cache
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.csproj.CopyComplete
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.dll
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGsys\obj\Debug\net5.0\ref\RaGsys.dll
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.pdb
+D:\MYLIBRARY\0. Courses\Course_Compiler\RaG-systems\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.genruntimeconfig.cache
+D:\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.exe
+D:\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.deps.json
+D:\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.runtimeconfig.json
+D:\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.runtimeconfig.dev.json
+D:\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.dll
+D:\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.pdb
+D:\RaGsys\RaGsys\bin\Debug\net5.0\RaGlib.dll
+D:\RaGsys\RaGsys\bin\Debug\net5.0\RaGlib.pdb
+D:\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.csproj.AssemblyReference.cache
+D:\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.GeneratedMSBuildEditorConfig.editorconfig
+D:\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.AssemblyInfoInputs.cache
+D:\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.AssemblyInfo.cs
+D:\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.csproj.CoreCompileInputs.cache
+D:\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.csproj.CopyComplete
+D:\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.dll
+D:\RaGsys\RaGsys\obj\Debug\net5.0\refint\RaGsys.dll
+D:\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.pdb
+D:\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.genruntimeconfig.cache
+D:\RaGsys\RaGsys\obj\Debug\net5.0\ref\RaGsys.dll
+E:\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.exe
+E:\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.deps.json
+E:\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.runtimeconfig.json
+E:\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.runtimeconfig.dev.json
+E:\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.dll
+E:\RaGsys\RaGsys\bin\Debug\net5.0\RaGsys.pdb
+E:\RaGsys\RaGsys\bin\Debug\net5.0\RaGlib.dll
+E:\RaGsys\RaGsys\bin\Debug\net5.0\RaGlib.pdb
+E:\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.csproj.AssemblyReference.cache
+E:\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.GeneratedMSBuildEditorConfig.editorconfig
+E:\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.AssemblyInfoInputs.cache
+E:\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.AssemblyInfo.cs
+E:\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.csproj.CoreCompileInputs.cache
+E:\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.csproj.CopyComplete
+E:\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.dll
+E:\RaGsys\RaGsys\obj\Debug\net5.0\refint\RaGsys.dll
+E:\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.pdb
+E:\RaGsys\RaGsys\obj\Debug\net5.0\RaGsys.genruntimeconfig.cache
+E:\RaGsys\RaGsys\obj\Debug\net5.0\ref\RaGsys.dll
+E:\RaGsys 2023 v01\RaGsys\bin\Debug\net5.0\RaGsys.exe
+E:\RaGsys 2023 v01\RaGsys\bin\Debug\net5.0\RaGsys.deps.json
+E:\RaGsys 2023 v01\RaGsys\bin\Debug\net5.0\RaGsys.runtimeconfig.json
+E:\RaGsys 2023 v01\RaGsys\bin\Debug\net5.0\RaGsys.runtimeconfig.dev.json
+E:\RaGsys 2023 v01\RaGsys\bin\Debug\net5.0\RaGsys.dll
+E:\RaGsys 2023 v01\RaGsys\bin\Debug\net5.0\RaGsys.pdb
+E:\RaGsys 2023 v01\RaGsys\bin\Debug\net5.0\RaGlib.dll
+E:\RaGsys 2023 v01\RaGsys\bin\Debug\net5.0\RaGlib.pdb
+E:\RaGsys 2023 v01\RaGsys\obj\Debug\net5.0\RaGsys.csproj.AssemblyReference.cache
+E:\RaGsys 2023 v01\RaGsys\obj\Debug\net5.0\RaGsys.GeneratedMSBuildEditorConfig.editorconfig
+E:\RaGsys 2023 v01\RaGsys\obj\Debug\net5.0\RaGsys.AssemblyInfoInputs.cache
+E:\RaGsys 2023 v01\RaGsys\obj\Debug\net5.0\RaGsys.AssemblyInfo.cs
+E:\RaGsys 2023 v01\RaGsys\obj\Debug\net5.0\RaGsys.csproj.CoreCompileInputs.cache
+E:\RaGsys 2023 v01\RaGsys\obj\Debug\net5.0\RaGsys.csproj.CopyComplete
+E:\RaGsys 2023 v01\RaGsys\obj\Debug\net5.0\RaGsys.dll
+E:\RaGsys 2023 v01\RaGsys\obj\Debug\net5.0\refint\RaGsys.dll
+E:\RaGsys 2023 v01\RaGsys\obj\Debug\net5.0\RaGsys.pdb
+E:\RaGsys 2023 v01\RaGsys\obj\Debug\net5.0\RaGsys.genruntimeconfig.cache
+E:\RaGsys 2023 v01\RaGsys\obj\Debug\net5.0\ref\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\bin\Debug\net5.0\RaGsys.exe
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\bin\Debug\net5.0\RaGsys.deps.json
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\bin\Debug\net5.0\RaGsys.runtimeconfig.json
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\bin\Debug\net5.0\RaGsys.runtimeconfig.dev.json
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\bin\Debug\net5.0\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\bin\Debug\net5.0\RaGsys.pdb
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\bin\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\bin\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\obj\Debug\net5.0\RaGsys.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\obj\Debug\net5.0\RaGsys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\obj\Debug\net5.0\RaGsys.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\obj\Debug\net5.0\RaGsys.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\obj\Debug\net5.0\RaGsys.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\obj\Debug\net5.0\RaGsys.csproj.CopyComplete
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\obj\Debug\net5.0\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\obj\Debug\net5.0\refint\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\obj\Debug\net5.0\RaGsys.pdb
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\obj\Debug\net5.0\RaGsys.genruntimeconfig.cache
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\obj\Debug\net5.0\ref\RaGsys.dll

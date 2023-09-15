@@ -1,0 +1,236 @@
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\bin\Debug\net7.0\RaGsys.exe
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\bin\Debug\net7.0\RaGsys.deps.json
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\bin\Debug\net7.0\RaGsys.runtimeconfig.json
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\bin\Debug\net7.0\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\bin\Debug\net7.0\RaGsys.pdb
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\bin\Debug\net7.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\bin\Debug\net7.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\obj\Debug\net7.0\RaGsys.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\obj\Debug\net7.0\RaGsys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\obj\Debug\net7.0\RaGsys.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\obj\Debug\net7.0\RaGsys.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\obj\Debug\net7.0\RaGsys.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\obj\Debug\net7.0\RaGsys.csproj.CopyComplete
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\obj\Debug\net7.0\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\obj\Debug\net7.0\refint\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\obj\Debug\net7.0\RaGsys.pdb
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\obj\Debug\net7.0\RaGsys.genruntimeconfig.cache
+C:\Users\stud\Desktop\RaGsys 2023 v02\RaGsys\obj\Debug\net7.0\ref\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.exe
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.deps.json
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.runtimeconfig.json
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.pdb
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGsys\bin\Debug\net7.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGsys\bin\Debug\net7.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.CopyComplete
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGsys\obj\Debug\net7.0\refint\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.pdb
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.genruntimeconfig.cache
+C:\Users\stud\Desktop\RaGsys\RaGsys\RaGsys\obj\Debug\net7.0\ref\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.exe
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.deps.json
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.runtimeconfig.json
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.pdb
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGsys\bin\Debug\net7.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGsys\bin\Debug\net7.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.CopyComplete
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGsys\obj\Debug\net7.0\refint\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.pdb
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.genruntimeconfig.cache
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGsys\obj\Debug\net7.0\ref\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGsys\bin\Debug\net7.0\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\RaGsys\bin\Debug\net7.0\OperationsLib.pdb
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.exe
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.deps.json
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.runtimeconfig.json
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.pdb
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGsys\bin\Debug\net7.0\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGsys\bin\Debug\net7.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGsys\bin\Debug\net7.0\OperationsLib.pdb
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGsys\bin\Debug\net7.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.CopyComplete
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGsys\obj\Debug\net7.0\refint\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.pdb
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.genruntimeconfig.cache
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\RaGsys\obj\Debug\net7.0\ref\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.exe
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.deps.json
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.runtimeconfig.json
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.pdb
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGsys\bin\Debug\net7.0\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGsys\bin\Debug\net7.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGsys\bin\Debug\net7.0\OperationsLib.pdb
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGsys\bin\Debug\net7.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.CopyComplete
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGsys\obj\Debug\net7.0\refint\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.pdb
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.genruntimeconfig.cache
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\RaGsys\obj\Debug\net7.0\ref\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.exe
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.deps.json
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.runtimeconfig.json
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.pdb
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGsys\bin\Debug\net7.0\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGsys\bin\Debug\net7.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGsys\bin\Debug\net7.0\OperationsLib.pdb
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGsys\bin\Debug\net7.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.CopyComplete
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGsys\obj\Debug\net7.0\refint\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.pdb
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.genruntimeconfig.cache
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\RaGsys\obj\Debug\net7.0\ref\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.exe
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.deps.json
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.runtimeconfig.json
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.pdb
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGsys\bin\Debug\net7.0\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGsys\bin\Debug\net7.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGsys\bin\Debug\net7.0\OperationsLib.pdb
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGsys\bin\Debug\net7.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.CopyComplete
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGsys\obj\Debug\net7.0\refint\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.pdb
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.genruntimeconfig.cache
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\RaGsys\obj\Debug\net7.0\ref\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGsys\obj\Debug\net7.0\refint\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.pdb
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.exe
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.deps.json
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.runtimeconfig.json
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.pdb
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGsys\bin\Debug\net7.0\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGsys\bin\Debug\net7.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGsys\bin\Debug\net7.0\OperationsLib.pdb
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGsys\bin\Debug\net7.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.CopyComplete
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.genruntimeconfig.cache
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\RaGsys\obj\Debug\net7.0\ref\RaGsys.dll
+C:\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.exe
+C:\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.deps.json
+C:\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.runtimeconfig.json
+C:\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.dll
+C:\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.pdb
+C:\RaGsys\RaGsys\bin\Debug\net7.0\OperationsLib.dll
+C:\RaGsys\RaGsys\bin\Debug\net7.0\RaGlib.dll
+C:\RaGsys\RaGsys\bin\Debug\net7.0\OperationsLib.pdb
+C:\RaGsys\RaGsys\bin\Debug\net7.0\RaGlib.pdb
+C:\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.AssemblyReference.cache
+C:\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.GeneratedMSBuildEditorConfig.editorconfig
+C:\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.AssemblyInfoInputs.cache
+C:\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.AssemblyInfo.cs
+C:\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.CoreCompileInputs.cache
+C:\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.CopyComplete
+C:\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.dll
+C:\RaGsys\RaGsys\obj\Debug\net7.0\refint\RaGsys.dll
+C:\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.pdb
+C:\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.genruntimeconfig.cache
+C:\RaGsys\RaGsys\obj\Debug\net7.0\ref\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGsys\obj\Debug\net7.0\refint\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.pdb
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.exe
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.deps.json
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.runtimeconfig.json
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.pdb
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGsys\bin\Debug\net7.0\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGsys\bin\Debug\net7.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGsys\bin\Debug\net7.0\OperationsLib.pdb
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGsys\bin\Debug\net7.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.CopyComplete
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.genruntimeconfig.cache
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\RaGsys\obj\Debug\net7.0\ref\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.exe
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.deps.json
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.runtimeconfig.json
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.pdb
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGsys\bin\Debug\net7.0\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGsys\bin\Debug\net7.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGsys\bin\Debug\net7.0\OperationsLib.pdb
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGsys\bin\Debug\net7.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.CopyComplete
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGsys\obj\Debug\net7.0\refint\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.pdb
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.genruntimeconfig.cache
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\RaGsys\obj\Debug\net7.0\ref\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.exe
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.deps.json
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.runtimeconfig.json
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGsys\bin\Debug\net7.0\RaGsys.pdb
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGsys\bin\Debug\net7.0\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGsys\bin\Debug\net7.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGsys\bin\Debug\net7.0\OperationsLib.pdb
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGsys\bin\Debug\net7.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.csproj.CopyComplete
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGsys\obj\Debug\net7.0\refint\RaGsys.dll
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.pdb
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGsys\obj\Debug\net7.0\RaGsys.genruntimeconfig.cache
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\RaGsys\obj\Debug\net7.0\ref\RaGsys.dll
