@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "z+HNUHJBvR1syP+YG3Ue9whRJTSrj4+jqLaitIJd6PvJlyYFxuMvlzX9khjP2XFCESqiFaeuhbWxUn0OPZLB9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ilya\\Desktop\\RaGsys\\OperationsLib\\OperationsLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ilya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ilya\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

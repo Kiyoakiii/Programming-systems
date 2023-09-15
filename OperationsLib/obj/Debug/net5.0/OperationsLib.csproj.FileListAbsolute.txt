@@ -1,0 +1,180 @@
+C:\Users\alexg\OneDrive\Рабочий стол\C#\v1\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.AssemblyReference.cache
+C:\Users\alexg\OneDrive\Рабочий стол\C#\v1\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\OneDrive\Рабочий стол\C#\v1\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.AssemblyInfoInputs.cache
+C:\Users\alexg\OneDrive\Рабочий стол\C#\v1\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.AssemblyInfo.cs
+C:\Users\alexg\OneDrive\Рабочий стол\C#\v1\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.CoreCompileInputs.cache
+C:\Users\alexg\OneDrive\Рабочий стол\C#\v1\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.deps.json
+C:\Users\alexg\OneDrive\Рабочий стол\C#\v1\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.dll
+C:\Users\alexg\OneDrive\Рабочий стол\C#\v1\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.pdb
+C:\Users\alexg\OneDrive\Рабочий стол\C#\v1\RaGsys\OperationsLib\bin\Debug\net5.0\RaGlib.dll
+C:\Users\alexg\OneDrive\Рабочий стол\C#\v1\RaGsys\OperationsLib\bin\Debug\net5.0\RaGlib.pdb
+C:\Users\alexg\OneDrive\Рабочий стол\C#\v1\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.CopyComplete
+C:\Users\alexg\OneDrive\Рабочий стол\C#\v1\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.dll
+C:\Users\alexg\OneDrive\Рабочий стол\C#\v1\RaGsys\OperationsLib\obj\Debug\net5.0\refint\OperationsLib.dll
+C:\Users\alexg\OneDrive\Рабочий стол\C#\v1\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.pdb
+C:\Users\alexg\OneDrive\Рабочий стол\C#\v1\RaGsys\OperationsLib\obj\Debug\net5.0\ref\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\OperationsLib\obj\Debug\net5.0\refint\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.pdb
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.deps.json
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.pdb
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\OperationsLib\bin\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\OperationsLib\bin\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.CopyComplete
+C:\Users\stud\Desktop\RaGsys 2023 v03\RaGsys\OperationsLib\obj\Debug\net5.0\ref\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.deps.json
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.pdb
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\OperationsLib\bin\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\OperationsLib\bin\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.CopyComplete
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\OperationsLib\obj\Debug\net5.0\refint\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.pdb
+C:\Users\stud\Desktop\RaGsys — копия\RaGsys\OperationsLib\obj\Debug\net5.0\ref\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.deps.json
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.pdb
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\OperationsLib\bin\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\OperationsLib\bin\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.CopyComplete
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\OperationsLib\obj\Debug\net5.0\refint\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.pdb
+C:\Users\stud\Desktop\RaGsys — копия — копия\RaGsys\OperationsLib\obj\Debug\net5.0\ref\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.deps.json
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.pdb
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\OperationsLib\bin\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\OperationsLib\bin\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.CopyComplete
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\OperationsLib\obj\Debug\net5.0\refint\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.pdb
+C:\Users\stud\Desktop\RaGsys v0.4\RaGsys\OperationsLib\obj\Debug\net5.0\ref\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.deps.json
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.pdb
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\OperationsLib\bin\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\OperationsLib\bin\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.CopyComplete
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\OperationsLib\obj\Debug\net5.0\refint\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.pdb
+C:\Users\stud\Desktop\RaGsys v0.4 — копия\RaGsys\OperationsLib\obj\Debug\net5.0\ref\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\OperationsLib\obj\Debug\net5.0\refint\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.pdb
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.deps.json
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.pdb
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\OperationsLib\bin\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\OperationsLib\bin\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.CopyComplete
+C:\Users\stud\Desktop\RaGsys v0.4 — копия434324\RaGsys\OperationsLib\obj\Debug\net5.0\ref\OperationsLib.dll
+C:\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.deps.json
+C:\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.dll
+C:\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.pdb
+C:\RaGsys\OperationsLib\bin\Debug\net5.0\RaGlib.dll
+C:\RaGsys\OperationsLib\bin\Debug\net5.0\RaGlib.pdb
+C:\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.AssemblyReference.cache
+C:\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.AssemblyInfoInputs.cache
+C:\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.AssemblyInfo.cs
+C:\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.CoreCompileInputs.cache
+C:\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.CopyComplete
+C:\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.dll
+C:\RaGsys\OperationsLib\obj\Debug\net5.0\refint\OperationsLib.dll
+C:\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.pdb
+C:\RaGsys\OperationsLib\obj\Debug\net5.0\ref\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\OperationsLib\obj\Debug\net5.0\refint\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.pdb
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.deps.json
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.pdb
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\OperationsLib\bin\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\OperationsLib\bin\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.CopyComplete
+C:\Users\stud\Desktop\RaGsys v0.5\RaGsys\OperationsLib\obj\Debug\net5.0\ref\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.deps.json
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.pdb
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\OperationsLib\bin\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\OperationsLib\bin\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.CopyComplete
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\OperationsLib\obj\Debug\net5.0\refint\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.pdb
+C:\Users\stud\Desktop\RaGsys v0.5 — копия\RaGsys\OperationsLib\obj\Debug\net5.0\ref\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.deps.json
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.pdb
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\OperationsLib\bin\Debug\net5.0\RaGlib.dll
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\OperationsLib\bin\Debug\net5.0\RaGlib.pdb
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.AssemblyInfo.cs
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.CopyComplete
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\OperationsLib\obj\Debug\net5.0\refint\OperationsLib.dll
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.pdb
+C:\Users\stud\Desktop\RaGsys  2023v0.6\RaGsys\OperationsLib\obj\Debug\net5.0\ref\OperationsLib.dll
+C:\Users\ilya\Desktop\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.deps.json
+C:\Users\ilya\Desktop\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.dll
+C:\Users\ilya\Desktop\RaGsys\OperationsLib\bin\Debug\net5.0\OperationsLib.pdb
+C:\Users\ilya\Desktop\RaGsys\OperationsLib\bin\Debug\net5.0\RaGlib.dll
+C:\Users\ilya\Desktop\RaGsys\OperationsLib\bin\Debug\net5.0\RaGlib.pdb
+C:\Users\ilya\Desktop\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.AssemblyReference.cache
+C:\Users\ilya\Desktop\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilya\Desktop\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.AssemblyInfoInputs.cache
+C:\Users\ilya\Desktop\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.AssemblyInfo.cs
+C:\Users\ilya\Desktop\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.CoreCompileInputs.cache
+C:\Users\ilya\Desktop\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.csproj.CopyComplete
+C:\Users\ilya\Desktop\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.dll
+C:\Users\ilya\Desktop\RaGsys\OperationsLib\obj\Debug\net5.0\refint\OperationsLib.dll
+C:\Users\ilya\Desktop\RaGsys\OperationsLib\obj\Debug\net5.0\OperationsLib.pdb
+C:\Users\ilya\Desktop\RaGsys\OperationsLib\obj\Debug\net5.0\ref\OperationsLib.dll
